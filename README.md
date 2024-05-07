@@ -24,6 +24,12 @@ git clone https://github.com/hyppoliteaurelus/conta-terminal-desafio-dio.git
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar uma solicitação pull.
 
+## Autor
+
+HYPPOLITE AURELUS
+
+
+
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
