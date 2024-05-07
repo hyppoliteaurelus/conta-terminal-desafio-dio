@@ -11,11 +11,12 @@ Este é um simples projeto em Java para interagir com dados de conta bancária v
 
 1. Certifique-se de ter o JDK (Java Development Kit) instalado no seu sistema.
 2. Clone este repositório usando o comando:
-git clone https://github.com/seu_usuario/ContaBanco.git
+   
+git clone https://github.com/hyppoliteaurelus/conta-terminal-desafio-dio.git
 
-3. Navegue até o diretório do projeto:
-4. Compile o código-fonte usando o comando:
- 5. Execute o programa usando o comando:
+4. Navegue até o diretório do projeto:
+5. Compile o código-fonte usando o comando:
+ 6. Execute o programa usando o comando:
  
 
 
